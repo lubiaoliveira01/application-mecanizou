@@ -1,0 +1,43 @@
+{
+  "products": [
+    {
+      "id": "OMSS15W40LUBX1024742CX24",
+      "brand": "LUBRAX",
+      "name": "Caixa com 24 - Óleo do Motor Tecno 15W40 Semissintético SL",
+      "price": "R$486,00",
+      "previousPrice": "R$506,00",
+      "discount": 5,
+      "installments": {
+        "quantity": 12,
+        "value": "R$14,58"
+      },
+      "image": "/src/assets/Image.svg"
+    },
+    {
+      "id": "OMSS15W40LUBX1024742CX24",
+      "brand": "LUBRAX 2",
+      "name": "Caixa com 24 - Óleo do Motor Tecno 15W40 Semissintético SL",
+      "price": "R$486,00",
+      "previousPrice": "R$506,00",
+      "discount": 5,
+      "installments": {
+        "quantity": 12,
+        "value": "R$14,58"
+      },
+      "image": "/src/assets/Image.svg"
+    },
+    {
+      "id": "OMSS15W40LUBX1024742CX24",
+      "brand": "LUBRAX 3",
+      "name": "Caixa com 24 - Óleo do Motor Tecno 15W40 Semissintético SL",
+      "price": "R$486,00",
+      "previousPrice": "R$506,00",
+      "discount": 5,
+      "installments": {
+        "quantity": 12,
+        "value": "R$14,58"
+      },
+      "image": "/src/assets/Image.svg"
+    }
+  ]
+}
